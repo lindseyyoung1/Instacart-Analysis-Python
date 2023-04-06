@@ -8,7 +8,7 @@ To conduct initial and exploratory analysis for Instacart Grocery, a US-based on
 Opensource data from 2017 made available by Instacart.
 https://www.instacart.com/datasets/grocery-shopping-2017
 
-## Folder Info
+## Files Info
 #### 01 Project Management
 Project Brief
 #### 03 Scripts
